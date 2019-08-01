@@ -3,7 +3,7 @@
 web app for book store </br>
 > Made using React Reux  </br>
 
-To run it locally this app clone it and run following command </br>
+To run it locally clone it and run following command </br>
 
 > cd BookRepo  </br>
 > npm install  </br>
