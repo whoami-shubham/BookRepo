@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23f547be7fc2f4a58e621e7319eaee56",
+    "revision": "0122f8ac28af13ed0f3419583104fb69",
     "url": "/BookRepo/index.html"
   },
   {
-    "revision": "98cc5956f4d8fb8defcc",
+    "revision": "ea9c67d7789ff179323f",
     "url": "/BookRepo/static/css/main.1f3f011e.chunk.css"
   },
   {
-    "revision": "d68d985194847b5f5fa8",
-    "url": "/BookRepo/static/js/2.e290fc1e.chunk.js"
+    "revision": "e2847f4b804d8a49d04d",
+    "url": "/BookRepo/static/js/2.c7a30ae2.chunk.js"
   },
   {
-    "revision": "98cc5956f4d8fb8defcc",
-    "url": "/BookRepo/static/js/main.6d9a24bc.chunk.js"
+    "revision": "ea9c67d7789ff179323f",
+    "url": "/BookRepo/static/js/main.116840c7.chunk.js"
   },
   {
     "revision": "563473c0440558fbe32c",
