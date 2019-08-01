@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BookRepo/static/css/main.1f3f011e.chunk.css",
-    "main.js": "/BookRepo/static/js/main.116840c7.chunk.js",
-    "main.js.map": "/BookRepo/static/js/main.116840c7.chunk.js.map",
+    "main.js": "/BookRepo/static/js/main.06812c92.chunk.js",
+    "main.js.map": "/BookRepo/static/js/main.06812c92.chunk.js.map",
     "runtime~main.js": "/BookRepo/static/js/runtime~main.a91a4d2c.js",
     "runtime~main.js.map": "/BookRepo/static/js/runtime~main.a91a4d2c.js.map",
     "static/js/2.c7a30ae2.chunk.js": "/BookRepo/static/js/2.c7a30ae2.chunk.js",
     "static/js/2.c7a30ae2.chunk.js.map": "/BookRepo/static/js/2.c7a30ae2.chunk.js.map",
     "index.html": "/BookRepo/index.html",
-    "precache-manifest.45084394f2140199eff68b1b1a473f77.js": "/BookRepo/precache-manifest.45084394f2140199eff68b1b1a473f77.js",
+    "precache-manifest.7bd4ce255b3c7edf4cb6c7fa2a9ded2a.js": "/BookRepo/precache-manifest.7bd4ce255b3c7edf4cb6c7fa2a9ded2a.js",
     "service-worker.js": "/BookRepo/service-worker.js",
     "static/css/main.1f3f011e.chunk.css.map": "/BookRepo/static/css/main.1f3f011e.chunk.css.map"
   }
