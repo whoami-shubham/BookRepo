@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookRepo/static/css/main.1f3f011e.chunk.css",
+    "main.js": "/BookRepo/static/js/main.6d9a24bc.chunk.js",
+    "main.js.map": "/BookRepo/static/js/main.6d9a24bc.chunk.js.map",
+    "runtime~main.js": "/BookRepo/static/js/runtime~main.a91a4d2c.js",
+    "runtime~main.js.map": "/BookRepo/static/js/runtime~main.a91a4d2c.js.map",
+    "static/js/2.e290fc1e.chunk.js": "/BookRepo/static/js/2.e290fc1e.chunk.js",
+    "static/js/2.e290fc1e.chunk.js.map": "/BookRepo/static/js/2.e290fc1e.chunk.js.map",
+    "index.html": "/BookRepo/index.html",
+    "precache-manifest.3c4c4a1a69fcbff352ff76d4cf753e7d.js": "/BookRepo/precache-manifest.3c4c4a1a69fcbff352ff76d4cf753e7d.js",
+    "service-worker.js": "/BookRepo/service-worker.js",
+    "static/css/main.1f3f011e.chunk.css.map": "/BookRepo/static/css/main.1f3f011e.chunk.css.map"
+  }
+}
