@@ -9,7 +9,7 @@
     "react-materialize": "*",
     "react-redux": "*",
     "react-router-dom": "*",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "redux": "*"
   },
   "scripts": {
